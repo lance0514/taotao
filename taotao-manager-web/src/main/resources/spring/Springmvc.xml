@@ -21,7 +21,7 @@
         <property name="prefix" value="/WEB-INF/jsp/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
-<!--资源映射-->
+    <!--资源映射-->
     <mvc:resources mapping="/css/**" location="/css/"/>
     <mvc:resources mapping="/js/**" location="/js/"/>
 
@@ -33,6 +33,8 @@
 
     <dubbo:reference interface="com.taotao.service.ItemSerivce" id="itemSerivce"/>
     <dubbo:reference interface="com.taotao.service.ItemCatService" id="itemCatService"/>
+    <dubbo:reference interface="com.taotao.service.ContentCategoryService" id="contentCategoryService"/>
+    <dubbo:reference interface="com.taotao.service.ContentService" id="contentService"/>
 
 
 </beans>
