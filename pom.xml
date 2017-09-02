@@ -13,6 +13,8 @@
         <module>taotao-manager-web</module>
         <module>taotao-portal-web</module>
         <module>taotao-content</module>
+        <module>taotao-search</module>
+        <module>taotao-search-web</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -98,11 +100,13 @@
                 <scope>test</scope>
             </dependency>
             <!-- 日志处理 -->
+
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-log4j12</artifactId>
                 <version>${slf4j.version}</version>
             </dependency>
+
             <!-- Mybatis -->
             <dependency>
                 <groupId>org.mybatis</groupId>

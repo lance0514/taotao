@@ -1,5 +1,6 @@
 package com.taotao.portal.controller;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.taotao.pojo.Ad1Node;
 import com.taotao.pojo.TbContent;
 import com.taotao.service.ContentService;
@@ -66,7 +67,11 @@ public class IndexController {
         }
 
 
-        mode.addAttribute("ad1", JsonUtils.objectToJson(ad1Nodes));
+        try {
+            mode.addAttribute("ad1", JsonUtils.objectToJson(ad1Nodes));
+        } catch (JsonProcessingException e) {
+            e.printStackTrace();
+        }
         return "index";
     }
 }

@@ -13,41 +13,28 @@ public class JsonUtils {
     private static final ObjectMapper mapper = new ObjectMapper();
 
 
-    public static String objectToJson(Object object) {
-        try {
-            String writeValueAsString = mapper.writeValueAsString(object);
-            return writeValueAsString;
-        } catch (JsonProcessingException e) {
-            e.printStackTrace();
-        }
+    public static String objectToJson(Object object) throws JsonProcessingException {
 
-        return null;
+        String writeValueAsString = mapper.writeValueAsString(object);
+        return writeValueAsString;
+
     }
 
-    public static <T> T jsonToPojo(String json, Class<T> classType) {
-        try {
-            T t = mapper.readValue(json, classType);
-            return t;
+    public static <T> T jsonToPojo(String json, Class<T> classType) throws IOException {
+        T t = mapper.readValue(json, classType);
+        return t;
 
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
-        return null;
     }
 
-    public static <T> List<T> jsonToList(String json, Class<T> classType) {
+    public static <T> List<T> jsonToList(String json, Class<T> classType) throws IOException {
 
         JavaType javaType = mapper.getTypeFactory().constructParametricType(List.class, classType);
 
-        try {
-            List<T> list = mapper.readValue(json, javaType);
-            return list;
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
-        return null;
+        List<T> list = mapper.readValue(json, javaType);
+        return list;
+
     }
 
 }
