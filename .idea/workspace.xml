@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="8561af5c-114f-491a-b9ff-95beda99fe4d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/taotao_search_web1_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/taotao_search_web1_war_exploded.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-common/taotao-common.iml" afterPath="$PROJECT_DIR$/taotao-common/taotao-common.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-content/taotao-content-interface/taotao-content-interface.iml" afterPath="$PROJECT_DIR$/taotao-content/taotao-content-interface/taotao-content-interface.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-content/taotao-content-service/taotao-content-service.iml" afterPath="$PROJECT_DIR$/taotao-content/taotao-content-service/taotao-content-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager-web/taotao-manager-web.iml" afterPath="$PROJECT_DIR$/taotao-manager-web/taotao-manager-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-dao/taotao-manager-dao.iml" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-dao/taotao-manager-dao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/taotao-manager-interface.iml" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/taotao-manager-interface.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/taotao-manager-pojo.iml" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/taotao-manager-pojo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/taotao-manager-service.iml" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/taotao-manager-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager.iml" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-portal-web/taotao-portal-web.iml" afterPath="$PROJECT_DIR$/taotao-portal-web/taotao-portal-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-search-web/pom.xml" afterPath="$PROJECT_DIR$/taotao-search-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-search-web/taotao-search-web.iml" afterPath="$PROJECT_DIR$/taotao-search-web/taotao-search-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-search/taotao-search-interface/taotao-search-interface.iml" afterPath="$PROJECT_DIR$/taotao-search/taotao-search-interface/taotao-search-interface.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-search/taotao-search-service/taotao-search-service.iml" afterPath="$PROJECT_DIR$/taotao-search/taotao-search-service/taotao-search-service.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/taotao-manager/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/target/" />
@@ -100,31 +78,31 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
-              <caret line="1292" column="20" lean-forward="false" selection-start-line="1292" selection-start-column="20" selection-end-line="1292" selection-end-column="20" />
+              <caret line="1266" column="20" lean-forward="false" selection-start-line="1266" selection-start-column="20" selection-end-line="1266" selection-end-column="20" />
               <folding>
-                <marker date="1504524616000" expanded="true" signature="76456:76739" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76456:76754" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76456:77790" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76456:77805" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76502:76719" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76542:76685" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76563:76663" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76789:77095" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76808:77080" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76882:77060" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76922:77026" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="76943:77004" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77147:77463" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77166:77448" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77250:77428" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77290:77394" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77311:77372" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77511:77776" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77530:77761" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77563:77741" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77603:77707" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77624:77685" ph="..." />
-                <marker date="1504524616000" expanded="true" signature="77850:77937" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72419:72702" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72419:72717" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72419:73753" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72419:73768" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72465:72682" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72505:72648" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72526:72626" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72752:73058" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72771:73043" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72845:73023" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72885:72989" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="72906:72967" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73110:73426" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73129:73411" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73213:73391" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73253:73357" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73274:73335" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73474:73739" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73493:73724" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73526:73704" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73566:73670" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73587:73648" ph="..." />
+                <marker date="1504524690000" expanded="true" signature="73813:73900" ph="..." />
               </folding>
             </state>
           </provider>
@@ -346,14 +324,6 @@
               <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
@@ -594,7 +564,7 @@
       <workItem from="1504507309707" duration="9940000" />
       <workItem from="1504517726117" duration="1501000" />
       <workItem from="1504519339734" duration="8000" />
-      <workItem from="1504520573512" duration="759000" />
+      <workItem from="1504520573512" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="修改第一此">
       <created>1503820571449</created>
@@ -680,7 +650,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504514523126</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="增加缓存">
+      <created>1504524635996</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1504524635996</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -698,7 +675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110426000" />
+    <option name="totallyTimeSpent" value="110499000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1131,31 +1108,31 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
-          <caret line="1292" column="20" lean-forward="false" selection-start-line="1292" selection-start-column="20" selection-end-line="1292" selection-end-column="20" />
+          <caret line="1266" column="20" lean-forward="false" selection-start-line="1266" selection-start-column="20" selection-end-line="1266" selection-end-column="20" />
           <folding>
-            <marker date="1504524616000" expanded="true" signature="76456:76739" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76456:76754" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76456:77790" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76456:77805" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76502:76719" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76542:76685" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76563:76663" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76789:77095" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76808:77080" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76882:77060" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76922:77026" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="76943:77004" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77147:77463" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77166:77448" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77250:77428" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77290:77394" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77311:77372" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77511:77776" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77530:77761" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77563:77741" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77603:77707" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77624:77685" ph="..." />
-            <marker date="1504524616000" expanded="true" signature="77850:77937" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72419:72702" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72419:72717" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72419:73753" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72419:73768" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72465:72682" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72505:72648" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72526:72626" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72752:73058" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72771:73043" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72845:73023" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72885:72989" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="72906:72967" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73110:73426" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73129:73411" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73213:73391" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73253:73357" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73274:73335" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73474:73739" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73493:73724" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73526:73704" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73566:73670" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73587:73648" ph="..." />
+            <marker date="1504524690000" expanded="true" signature="73813:73900" ph="..." />
           </folding>
         </state>
       </provider>
