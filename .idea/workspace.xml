@@ -1,9 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="8561af5c-114f-491a-b9ff-95beda99fe4d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" readonly="true" id="8561af5c-114f-491a-b9ff-95beda99fe4d" name="Default" comment="增加缓存">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/java/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/java/com/taotao" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/java/com/taotao/search" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/java/com/taotao/search/controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/resources/spring" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/error" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20111221C.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20120112B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20120209D.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130330A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130330A_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130330B_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130330C.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130415i.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130606B (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130606B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/20130725.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/2013100701.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/2013100702.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/360_flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/360_video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/537b084eN94336622.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/541f893aN662da9bc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/541fdd63Nab1b3c63.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/54238aaaN17189794.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/543b4d75N686689d7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/5440b1e4N8ff6d0fd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/5440b1e7N1ade375b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/5440ce68Na00d019e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/544a11d3Na5a3d566.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/547e6a57N75c2f016.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/549d03d0N59b1f026.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/backpanel20140708.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/bg20110922.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/bg_hotsale.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/bg_prompt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/bg_thickbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/btn-again.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/btn-bg-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/btn-check-20140627.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/btn-submit-new.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/btn-submit.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/cart_corner_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/checkout-title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/cicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/commstar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/control-icon-20140521.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/defaultImgs/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/error-3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/error-jd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/errordog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/floor-sort20131202.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/flow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/footprint-arr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/hover-btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/icon48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/iconadd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/im20131028.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/index-jd-wx-qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/index.showcase.tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/layer-credit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/loading-jd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/login-all-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/logo-201305.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/m-buy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/more-slide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/my_cart_title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/myjd-bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/myjd-common-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/myjd-new-ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/newicon20140417.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/one4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/one5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/one6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/order-icon-20140811.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/p-btns-20140611.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/perfect_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/phone-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/promise20141021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/purchase-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/pwdstrength.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/qr-code-sao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/qr-code-sao02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/rBEhV1I2yiUIAAAAAADKL7RWKf8AADQDQOQekkAAMpH341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/rBEhV1NXYLYIAAAAAADGO8-wV-UAAMfdgNi-BAAAMZT367.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/rank-sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/rank2014.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/regist-btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/regist-word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/step1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/step2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/sucess.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/taotao-logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/thickbox_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/tip-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/tip-cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/toggler-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/update.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/user_purchase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/virtuals-20140606.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/virtuals-cat-ico20140826.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/wait-btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/images/yzm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/resources/spring/Springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/footer-links.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/error/exception.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/myjd.commentImg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/myjd.common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/myjd.info.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/myjd.order.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/order-commons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/passport.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/pop_compare.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch.onebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch20131008.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/pshow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/purchase.2012.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/purchase.base.2012.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/purchase.checkout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/purchase.sop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/regist.personal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/taotao.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/CommentStar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/base-2011.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/base-v1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/iplocation_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jTips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jquery-1.6.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jquery-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jquery.checkout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jquery.hashchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/jquery.price_format.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/lib-v1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/order.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/search_main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/js/taotao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/taotao-search-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/taotao-manager/target/" />
     <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/target/" />
@@ -62,16 +258,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,77 +291,99 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15748">
-              <caret line="315" column="50" lean-forward="false" selection-start-line="315" selection-start-column="50" selection-end-line="315" selection-end-column="50" />
+            <state relative-caret-position="-12853">
+              <caret line="508" column="50" lean-forward="false" selection-start-line="508" selection-start-column="50" selection-end-line="508" selection-end-column="50" />
               <folding>
-                <marker date="1504514509000" expanded="true" signature="84507:84550" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84507:84568" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84507:84581" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84507:84596" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84631:88274" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84644:88259" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84698:84963" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84717:84948" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84750:84928" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84790:84894" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="84811:84872" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85017:85419" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85036:85404" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85167:85384" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85207:85350" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85228:85328" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85452:85717" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85471:85702" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85504:85682" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85544:85648" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85565:85626" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85767:86098" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85786:86083" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85885:86063" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85925:86029" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="85946:86007" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86149:86468" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86168:86453" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86255:86433" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86295:86399" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86316:86377" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86511:86817" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86530:86802" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86604:86782" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86644:86748" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86665:86726" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86868:87223" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86887:87208" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="86971:87188" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87011:87154" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87032:87132" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87258:87564" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87277:87549" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87351:87529" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87391:87495" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87412:87473" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87616:87932" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87635:87917" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87719:87897" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87759:87863" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87780:87841" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87980:88245" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="87999:88230" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="88032:88210" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="88072:88176" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="88093:88154" ph="..." />
-                <marker date="1504514509000" expanded="true" signature="88319:88406" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107774:107817" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107774:107835" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107774:107848" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107774:107863" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107898:111541" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107911:111526" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107965:108230" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="107984:108215" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108017:108195" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108057:108161" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108078:108139" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108284:108686" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108303:108671" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108434:108651" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108474:108617" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108495:108595" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108719:108984" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108738:108969" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108771:108949" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108811:108915" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="108832:108893" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109034:109365" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109053:109350" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109152:109330" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109192:109296" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109213:109274" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109416:109735" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109435:109720" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109522:109700" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109562:109666" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109583:109644" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109778:110084" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109797:110069" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109871:110049" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109911:110015" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="109932:109993" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110135:110490" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110154:110475" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110238:110455" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110278:110421" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110299:110399" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110525:110831" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110544:110816" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110618:110796" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110658:110762" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110679:110740" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110883:111199" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110902:111184" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="110986:111164" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111026:111130" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111047:111108" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111247:111512" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111266:111497" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111299:111477" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111339:111443" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111360:111421" ph="..." />
+                <marker date="1504515030000" expanded="true" signature="111586:111673" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="taotao_search_web_war.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="taotao_search_web_war.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/artifacts/taotao_search_web_war.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="psearch20131008.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch20131008.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="1052" column="21" lean-forward="true" selection-start-line="1052" selection-start-column="21" selection-end-line="1052" selection-end-column="21" />
+              <folding>
+                <marker date="1473391220000" expanded="true" signature="37304:37331" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -207,19 +415,6 @@
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-search-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -404,53 +599,25 @@
             <path>
               <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
               <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -678,7 +845,7 @@
       <workItem from="1504346137286" duration="980000" />
       <workItem from="1504347855723" duration="94000" />
       <workItem from="1504347969994" duration="397000" />
-      <workItem from="1504507309707" duration="6992000" />
+      <workItem from="1504507309707" duration="7664000" />
     </task>
     <task id="LOCAL-00001" summary="修改第一此">
       <created>1503820571449</created>
@@ -757,7 +924,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504514513662</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="增加缓存">
+      <created>1504514523126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1504514523126</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -775,7 +949,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105210000" />
+    <option name="totallyTimeSpent" value="105882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,13 +978,13 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30341882" sideWeight="0.49570817" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.49713877" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.49713877" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32763532" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49713877" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49713877" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.49713877" order="15" side_tool="false" content_ui="tabs" />
@@ -887,24 +1061,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/taotao-search/taotao-search-service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager-web/src/main/resources/spring/Springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1306,66 +1466,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15748">
-          <caret line="315" column="50" lean-forward="false" selection-start-line="315" selection-start-column="50" selection-end-line="315" selection-end-column="50" />
+        <state relative-caret-position="-12853">
+          <caret line="508" column="50" lean-forward="false" selection-start-line="508" selection-start-column="50" selection-end-line="508" selection-end-column="50" />
           <folding>
-            <marker date="1504514509000" expanded="true" signature="84507:84550" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84507:84568" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84507:84581" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84507:84596" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84631:88274" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84644:88259" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84698:84963" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84717:84948" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84750:84928" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84790:84894" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="84811:84872" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85017:85419" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85036:85404" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85167:85384" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85207:85350" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85228:85328" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85452:85717" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85471:85702" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85504:85682" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85544:85648" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85565:85626" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85767:86098" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85786:86083" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85885:86063" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85925:86029" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="85946:86007" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86149:86468" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86168:86453" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86255:86433" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86295:86399" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86316:86377" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86511:86817" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86530:86802" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86604:86782" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86644:86748" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86665:86726" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86868:87223" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86887:87208" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="86971:87188" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87011:87154" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87032:87132" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87258:87564" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87277:87549" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87351:87529" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87391:87495" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87412:87473" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87616:87932" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87635:87917" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87719:87897" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87759:87863" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87780:87841" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87980:88245" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="87999:88230" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="88032:88210" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="88072:88176" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="88093:88154" ph="..." />
-            <marker date="1504514509000" expanded="true" signature="88319:88406" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107774:107817" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107774:107835" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107774:107848" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107774:107863" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107898:111541" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107911:111526" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107965:108230" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="107984:108215" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108017:108195" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108057:108161" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108078:108139" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108284:108686" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108303:108671" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108434:108651" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108474:108617" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108495:108595" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108719:108984" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108738:108969" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108771:108949" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108811:108915" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="108832:108893" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109034:109365" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109053:109350" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109152:109330" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109192:109296" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109213:109274" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109416:109735" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109435:109720" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109522:109700" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109562:109666" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109583:109644" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109778:110084" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109797:110069" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109871:110049" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109911:110015" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="109932:109993" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110135:110490" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110154:110475" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110238:110455" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110278:110421" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110299:110399" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110525:110831" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110544:110816" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110618:110796" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110658:110762" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110679:110740" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110883:111199" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110902:111184" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="110986:111164" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111026:111130" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111047:111108" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111247:111512" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111266:111497" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111299:111477" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111339:111443" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111360:111421" ph="..." />
+            <marker date="1504515030000" expanded="true" signature="111586:111673" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1399,6 +1559,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch20131008.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1052" column="21" lean-forward="true" selection-start-line="1052" selection-start-column="21" selection-end-line="1052" selection-end-column="21" />
+          <folding>
+            <marker date="1473391220000" expanded="true" signature="37304:37331" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
