@@ -30,6 +30,7 @@
     <dubbo:protocol name="dubbo" port="20882"/>
 
     <dubbo:service interface="com.taotao.service.SearchItemService" ref="searchItemServiceImpl" timeout="3000000"/>
+    <dubbo:service interface="com.taotao.service.SearchService" ref="searchServiceImpl" timeout="3000000"/>
 
 
 </beans>
