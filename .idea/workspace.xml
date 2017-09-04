@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="8561af5c-114f-491a-b9ff-95beda99fe4d" name="Default" comment="增加缓存">
+    <list default="true" readonly="true" id="8561af5c-114f-491a-b9ff-95beda99fe4d" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main" />
@@ -169,7 +169,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/passport.base.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/pop_compare.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch.onebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch20131008.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/pshow.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/purchase.2012.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/purchase.base.2012.css" />
@@ -257,7 +256,31 @@
     <favorites_list name="taotao-parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-search-web/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1062">
+              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taotao-search-web.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-search-web/taotao-search-web.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -425,8 +448,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -440,40 +461,12 @@
               <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
               <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -696,7 +689,8 @@
       <workItem from="1504346137286" duration="980000" />
       <workItem from="1504347855723" duration="94000" />
       <workItem from="1504347969994" duration="397000" />
-      <workItem from="1504507309707" duration="9045000" />
+      <workItem from="1504507309707" duration="9940000" />
+      <workItem from="1504517726117" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="修改第一此">
       <created>1503820571449</created>
@@ -800,7 +794,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107263000" />
+    <option name="totallyTimeSpent" value="108471000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,14 +827,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.49713877" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32763532" sideWeight="0.49356222" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32763532" sideWeight="0.49356222" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49713877" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49713877" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763532" sideWeight="0.49713877" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36480686" sideWeight="0.47578347" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.369814" sideWeight="0.47578347" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34978542" sideWeight="0.52421653" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.49284253" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34978542" sideWeight="0.52421653" order="7" side_tool="true" content_ui="tabs" />
@@ -850,6 +843,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35754985" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -922,9 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -939,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,26 +953,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-manager-web/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-portal-web/src/main/resources/spring/Springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,19 +983,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-search-web/taotao-search-web.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/webapp/WEB-INF/jsp/error/exception.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1017,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,20 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1062,7 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1070,7 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1078,26 +1036,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-68">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-search/taotao-search-service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="921">
           <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-search/taotao-search-service/src/main/java/com/taotao/serivce/impl/SearchItemSerivceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="41" column="70" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="41" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,10 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="e#817#818#0" expanded="false" />
-            <element signature="e#851#852#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1116,9 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,7 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="250" column="40" lean-forward="false" selection-start-line="250" selection-start-column="40" selection-end-line="250" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,9 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1160,7 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,9 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1186,10 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="46" />
-          <folding>
-            <marker date="1473391222000" expanded="true" signature="6815:6848" ph="..." />
-            <marker date="1473391222000" expanded="true" signature="7092:7106" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1197,86 +1130,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="1288" column="44" lean-forward="false" selection-start-line="1288" selection-start-column="44" selection-end-line="1288" selection-end-column="44" />
-          <folding>
-            <marker date="1504511553000" expanded="true" signature="32686:32703" ph="..." />
-            <marker date="1504511553000" expanded="true" signature="33842:33859" ph="..." />
-            <marker date="1504511553000" expanded="true" signature="39259:39272" ph="..." />
-            <marker date="1504511553000" expanded="true" signature="39391:39404" ph="..." />
-            <marker date="1504511553000" expanded="true" signature="39523:39536" ph="..." />
-            <marker date="1504511553000" expanded="true" signature="61732:61738" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="61738:61744" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="61755:61761" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="61761:61767" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="61767:61773" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="61773:61779" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="69079:69186" ph="..." />
-            <marker date="1504511553000" expanded="true" signature="103064:103068" ph="&amp;lt;" />
-            <marker date="1504511553000" expanded="true" signature="103364:103368" ph="&amp;gt;" />
-            <marker date="1504511553000" expanded="true" signature="103727:103733" ph="&amp;nbsp;" />
-            <marker date="1504511553000" expanded="true" signature="104262:104266" ph="&amp;lt;" />
-            <marker date="1504511553000" expanded="true" signature="104562:104566" ph="&amp;gt;" />
-            <marker date="1504511553000" expanded="true" signature="104925:104931" ph="&amp;nbsp;" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3565">
           <caret line="248" column="20" lean-forward="false" selection-start-line="248" selection-start-column="20" selection-end-line="248" selection-end-column="20" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-common/src/main/java/com/taotao/pojo/TaotaoResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="658">
           <caret line="133" column="7" lean-forward="false" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-search/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-portal-web/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
           <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-search-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,7 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1292,7 +1189,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,7 +1196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1308,65 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12838">
           <caret line="509" column="50" lean-forward="false" selection-start-line="509" selection-start-column="50" selection-end-line="509" selection-end-column="50" />
-          <folding>
-            <marker date="1504516686000" expanded="true" signature="97266:97283" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97266:97301" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97266:97314" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97266:97329" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97364:101007" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97377:100992" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97431:97696" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97450:97681" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97483:97661" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97523:97627" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97544:97605" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97750:98152" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97769:98137" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97900:98117" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97940:98083" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="97961:98061" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98185:98450" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98204:98435" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98237:98415" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98277:98381" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98298:98359" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98500:98831" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98519:98816" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98618:98796" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98658:98762" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98679:98740" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98882:99201" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98901:99186" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="98988:99166" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99028:99132" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99049:99110" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99244:99550" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99263:99535" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99337:99515" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99377:99481" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99398:99459" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99601:99956" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99620:99941" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99704:99921" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99744:99887" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99765:99865" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="99991:100297" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100010:100282" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100084:100262" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100124:100228" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100145:100206" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100349:100665" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100368:100650" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100452:100630" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100492:100596" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100513:100574" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100713:100978" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100732:100963" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100765:100943" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100805:100909" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="100826:100887" ph="..." />
-            <marker date="1504516686000" expanded="true" signature="101052:101139" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1374,7 +1210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1382,7 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1390,7 +1224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1398,7 +1231,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1406,17 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch20131008.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="4345" column="16" lean-forward="false" selection-start-line="4345" selection-start-column="4" selection-end-line="4345" selection-end-column="16" />
-          <folding>
-            <marker date="1473391220000" expanded="true" signature="37304:37331" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1424,9 +1245,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1473391220000" expanded="true" signature="8248:8324" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-search-web/src/main/webapp/css/psearch20131008.css" />
+    <entry file="file://$PROJECT_DIR$/taotao-search-web/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-search-web/taotao-search-web.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
