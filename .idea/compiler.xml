@@ -18,6 +18,7 @@
         <module name="taotao-search-interface" />
         <module name="taotao-search-service" />
         <module name="taotao-search-web" />
+        <module name="taotao-search-web1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
