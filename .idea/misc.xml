@@ -8,6 +8,10 @@
     <file type="web" url="file://$PROJECT_DIR$/taotao-search-web" />
     <file type="web" url="file://$PROJECT_DIR$/taotao-search-web" />
     <file type="web" url="file://$PROJECT_DIR$/taotao-search/taotao-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso/taotao-sso-service" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES5" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -16,11 +20,6 @@
         <option value="$PROJECT_DIR$/taotao-content/pom.xml" />
         <option value="$PROJECT_DIR$/taotao-search/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/taotao-search-web/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

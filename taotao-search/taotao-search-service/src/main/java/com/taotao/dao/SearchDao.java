@@ -11,6 +11,7 @@ import org.apache.solr.common.SolrDocumentList;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
+import javax.jms.ConnectionFactory;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
