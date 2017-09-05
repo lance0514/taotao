@@ -10,6 +10,9 @@
           <element id="archive" name="taotao-sso-interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="taotao-sso-interface" />
           </element>
+          <element id="archive" name="taotao-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="taotao-manager-pojo" />
+          </element>
           <element id="archive" name="taotao-common-1.0-SNAPSHOT.jar">
             <element id="module-output" name="taotao-common" />
           </element>
