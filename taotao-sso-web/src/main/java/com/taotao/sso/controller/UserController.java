@@ -1,5 +1,6 @@
 package com.taotao.sso.controller;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.taotao.pojo.TaotaoResult;
 import com.taotao.pojo.TbUser;
 import com.taotao.sso.service.UserService;
@@ -14,6 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
 
 @Controller
 @RequestMapping("/user/")
@@ -48,8 +50,12 @@ public class UserController {
     public TaotaoResult login(String username, String password, HttpServletRequest request, HttpServletResponse response) {
 
 
-
-        TaotaoResult taotaoResult = userService.login(username,password);
+        TaotaoResult taotaoResult = null;
+        try {
+            taotaoResult = userService.login(username,password);
+        } catch (JsonProcessingException e) {
+            e.printStackTrace();
+        }
 
 
         String token = taotaoResult.getData().toString();
@@ -61,5 +67,18 @@ public class UserController {
 
 
         return taotaoResult;
+    }
+
+
+    @RequestMapping("token/{token}")
+    @ResponseBody
+    public TaotaoResult getUserByToken(@PathVariable String token) {
+        TaotaoResult result = null;
+        try {
+            result = userService.getUserByToken(token);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return result;
     }
 }
